@@ -1,0 +1,24 @@
+{
+    "name": "luffy",
+    "age": 25,
+    "gender": "Male",
+    "height": 170,
+    "weight": 70,
+    "activity_level": "Moderately Active",
+    "fitness_level": "Advanced",
+    "training_experience": 24,
+    "primary_goal": "Muscle Gain",
+    "time_per_day": 90,
+    "workout_place": "Gym",
+    "diet_type": "Non-Vegetarian",
+    "allergies": "",
+    "sleep_hours": 7,
+    "medical_conditions": [
+        "Heart Issues"
+    ],
+    "injuries": [
+        "Back Pain"
+    ],
+    "medications": "",
+    "consent": true
+}
