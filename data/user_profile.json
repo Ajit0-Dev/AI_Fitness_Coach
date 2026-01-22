@@ -1,21 +1,19 @@
 {
-    "name": "luffy",
-    "age": 25,
+    "name": "Ajit",
+    "age": 21,
     "gender": "Male",
-    "height": 170,
-    "weight": 70,
-    "activity_level": "Moderately Active",
-    "fitness_level": "Advanced",
+    "height": 165,
+    "weight": 59,
+    "activity_level": "Highly Active",
+    "fitness_level": "Intermediate",
     "training_experience": 24,
     "primary_goal": "Muscle Gain",
     "time_per_day": 90,
     "workout_place": "Gym",
     "diet_type": "Non-Vegetarian",
-    "allergies": "",
+    "allergies": "no",
     "sleep_hours": 7,
-    "medical_conditions": [
-        "Heart Issues"
-    ],
+    "medical_conditions": [],
     "injuries": [
         "Back Pain"
     ],
